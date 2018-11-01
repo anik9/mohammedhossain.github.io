@@ -5,12 +5,12 @@
                         <title> STUDIO ANIK <title>
                         <style>
                         
-                        body {background color-:black;
-                        color:white;
+                        body {background color-:white;
+                        color:black;
                         }
                         
-                        h1 {font-family: "oswald", sans-serif;
-                        color: blue;
+                        h1 {font-family: "calibri", sans-serif;
+                        color: white;
                         font -size: 50px}
                         
                         a { color: red;
@@ -18,6 +18,8 @@
                         font-size: 24px;
                         text-decoration: none;
                         }
+                        <head>
+                        <html>
                         
                         
                         
