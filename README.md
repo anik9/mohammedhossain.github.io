@@ -1,25 +1,20 @@
 # mohammedhossain.github.io
-<html>  
-  <head>
-    <meta charset=utf-8">
-                        <title> STUDIO ANIK <title>
-                        <style>
-                        
-                        body {background color-:white;
-                        color:black;
-                        }
-                        
-                        h1 {font-family: "calibri", sans-serif;
-                        color: white;
-                        font -size: 50px}
-                        
-                        a { color: red;
-                        font-family: 'spriax', cursive;
-                        font-size: 24px;
-                        text-decoration: none;
-                        }
-                        <head>
-                        <html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Digital Zine/>
+</title>
+</head>
+
+<body>
+
+<h1>STUDIO ANIK</h1>
+
+<p><a href="https://issuu.com/anik94/docs/studio_anik_zine">Check it out</a></p>
+
+</body>
+</html>
+
                         
                         
                         
